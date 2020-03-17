@@ -4,9 +4,9 @@
 
     <application
         android:allowBackup="true"
-        android:icon="@drawable/logo-Boulanger"
+        android:icon="@drawable/boulanger"
         android:label="@string/app_name"
-        android:roundIcon="@drawable/logo-Boulanger"
+        android:roundIcon="@drawable/boulanger"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity android:name=".MainActivity">
